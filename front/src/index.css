@@ -1,0 +1,17 @@
+html,body,#app  {
+  width: 100%;
+  height: 100%;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #bfbfbf;
+  -webkit-border-radius: 6px;
+}
